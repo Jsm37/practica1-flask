@@ -11,18 +11,27 @@ D'altra banda, l’aplicació també inclou contingut estàtic com imatges dins 
 
 ## Instruccions per executar l’aplicació en local
 
-### Clonar el repositori.
+### 0. Clonar el repositori.
 ```bash
 git clone https://github.com/EL_TEU_USUARI/practica1-flask.git
 cd practica1-flask
 ```
-### Crear i activar l'entorn virtual
+### 1. Crear i activar l'entorn virtual
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 ```
-### Instal·lació de les dependencies necessaries pel
+### 2. Instal·lació de les dependencies.
+```bash
 pip install -r requirements.txt
+```
+### 3. Executar l'aplicació
+```bash
+python app.py
+```
+### 4. Per accedir a l'aplicació.
+Obre el navegador i accedeix a aquest link:
+http://127.0.0.1:8000
 
 
 
