@@ -29,9 +29,10 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-### 4. Per accedir a l'aplicació.
-Obre el navegador i accedeix a aquest link:
+### 4. Accés a l'aplicació.
+Per accedir a l'aplicació, obre el navegador i accedeix a aquest link:
 http://127.0.0.1:8000
+
 
 
 
